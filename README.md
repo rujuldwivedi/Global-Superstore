@@ -32,7 +32,7 @@ The `StoreService` class provides methods for interacting with store items:
 
 To set up and run the Global Superstore project:
 
-1. Clone the repository: `git clone https://github.com/yourusername/Global-Superstore.git`
+1. Clone the repository: `git clone https://github.com/rujuldwivedi/Global-Superstore`
 2. Ensure you have Java and Spring Boot installed on your machine.
 3. Run the application using your preferred IDE or the command line.
 
