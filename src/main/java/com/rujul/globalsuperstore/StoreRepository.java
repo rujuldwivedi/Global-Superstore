@@ -1,4 +1,4 @@
-package com.ltp.globalsuperstore;
+package com.rujul.globalsuperstore;
 
 import java.util.ArrayList;
 import java.util.List;
