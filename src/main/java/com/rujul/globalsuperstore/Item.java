@@ -1,4 +1,4 @@
-package com.ltp.globalsuperstore;
+package com.rujul.globalsuperstore;
 
 import java.util.Date;
 import java.util.UUID;
