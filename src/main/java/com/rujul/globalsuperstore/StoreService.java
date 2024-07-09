@@ -1,4 +1,4 @@
-package com.ltp.globalsuperstore;
+package com.rujul.globalsuperstore;
 
 import java.util.Date;
 import java.util.List;
@@ -13,7 +13,7 @@ public class StoreService {
 
     StoreRepository storeRepository;
     
-    @Autowired //not actually needed (see workbook article)
+    @Autowired
     public StoreService(StoreRepository storeRepository) {
         this.storeRepository = storeRepository;
     }
