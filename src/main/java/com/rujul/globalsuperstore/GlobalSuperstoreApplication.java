@@ -1,4 +1,4 @@
-package com.ltp.globalsuperstore;
+package com.rujul.globalsuperstore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
