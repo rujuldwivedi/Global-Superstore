@@ -1,4 +1,4 @@
-package com.ltp.globalsuperstore;
+package com.rujul.globalsuperstore;
 
 public class Constants {
     public static final int NOT_FOUND = -10000;
