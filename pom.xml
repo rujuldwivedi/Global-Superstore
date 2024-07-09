@@ -8,7 +8,7 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ltp</groupId>
+	<groupId>com.rujul</groupId>
 	<artifactId>global-superstore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>global-superstore</name>
